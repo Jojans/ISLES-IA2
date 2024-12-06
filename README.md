@@ -1,6 +1,7 @@
 # ISLES-IA2
 
-![openart-image_yYJemyc9_1733515790435_raw](https://github.com/user-attachments/assets/fe4f9f62-0e0c-4542-a8f3-1dc7eea58353)
+![image](https://github.com/user-attachments/assets/76095b7d-2d3d-4274-8133-2312b15db813)
+
 
 Autores: Johan Sebastian Galvis - 2211904
 
@@ -12,8 +13,8 @@ Palabras clave: Segmentación de imágenes, Red neuronal convolucional (CNN), Se
 
 Código + Diapositivas: https://drive.google.com/drive/folders/1TI11bqtfx65q2VOYUUkXoRL9Jjh1m1-2?usp=sharing
 
-Video:
+Video: 
 
-Repositorio: 
+Repositorio: https://github.com/Jojans/ISLES-IA2
 
 
