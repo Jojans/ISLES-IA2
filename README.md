@@ -13,7 +13,7 @@ Palabras clave: Segmentación de imágenes, Red neuronal convolucional (CNN), Se
 
 Código + Diapositivas: https://drive.google.com/drive/folders/1TI11bqtfx65q2VOYUUkXoRL9Jjh1m1-2?usp=sharing
 
-Video: 
+Video: https://youtu.be/y4oud11XNYE
 
 Repositorio: https://github.com/Jojans/ISLES-IA2
 
